@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World"
+echo "Testing Ubuntu -Jenkins integration"
